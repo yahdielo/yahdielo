@@ -1,21 +1,9 @@
 ### Hi there 👋
 
-Holberton Studen
-ARMY veteran
-Software Dev
-![GIF](https://example.com/path/to/your-gif.gif)
-<iframe src="https://giphy.com/embed/l49JMVDvP8D38LHwI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/money-cryptocurrency-bitcoin-l49JMVDvP8D38LHwI">via GIPHY</a></p>
-<!--
-**yahdielo/yahdielo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Holberton Student | ARMY veteran | Software Developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">
+<div>
+<img src="https://media.giphy.com/media/l49JMVDvP8D38LHwI/giphy.gif"/>
+</div>
+</h4>
