@@ -3,7 +3,7 @@
 Holberton Studen
 ARMY veteran
 Software Dev
-
+![GIF](https://example.com/path/to/your-gif.gif)
 <iframe src="https://giphy.com/embed/l49JMVDvP8D38LHwI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/money-cryptocurrency-bitcoin-l49JMVDvP8D38LHwI">via GIPHY</a></p>
 <!--
 **yahdielo/yahdielo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
