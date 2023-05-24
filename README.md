@@ -1,7 +1,7 @@
 
- <h1 aling="center">Software Engeniere</h1>
+ <h1 align="center">Software Engeniere</h1>
 
-<h3>Holberton Student | ARMY veteran | Software Developer</h3>
+<h3 align="center">Holberton Student | ARMY veteran | Software Developer</h3>
 
 <!-- Contact Me Section -->
 <div id="badges" align="center">
