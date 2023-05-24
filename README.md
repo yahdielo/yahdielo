@@ -1,13 +1,20 @@
-## Software Engeniere
 
-Holberton Student | ARMY veteran | Software Developer
+ <h1 aling="center">Software Engeniere</h1>
+
+<h3>Holberton Student | ARMY veteran | Software Developer</h3>
 
 <!-- Contact Me Section -->
 <div id="badges" align="center">
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahdiielo@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Lizbeth-Garcia.pdf)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahdiel-saldana-112446265/)
- </div>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yahdiielo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yahdiel-saldana-112446265/">
+    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://docs.google.com/document/d/1JApv5H101CgqMXzgE07YhVji-WgGAw-D/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=google-docs&logoColor=white" alt="Resume Badge"/>
+  </a>
+</div>
 
 <h4 align="center">
 <div>
