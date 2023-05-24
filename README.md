@@ -1,4 +1,4 @@
-## Full-stack Software Engeniere
+## Software Engeniere
 
 Holberton Student | ARMY veteran | Software Developer
 
